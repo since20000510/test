@@ -3,6 +3,7 @@ package com.zking.util
 
 public class demo{
    public static void main(String[] args){
-       System.out.println("hello git");
+       int a = 10;
+       System.out.println("hello git  test1 a");
    }
 }
